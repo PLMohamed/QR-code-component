@@ -24,13 +24,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
-### Built With
-
-    - HTML 5
-    - CSS custom properties
-    - CSS FlexBox
+### Built With :
+  * HTML 5
+  * CSS custom properties
+  * CSS FlexBox
 
 ## Author
 
-    **Boumedine Mohamed Touati** AKA "PLMohamed"
-    - Frontend Mentor - [@PLMohamed](https://www.frontendmentor.io/profile/PLMohamed)
+  **Boumedine Mohamed Touati** AKA "PLMohamed"
+  - Frontend Mentor - [@PLMohamed](https://www.frontendmentor.io/profile/PLMohamed)
